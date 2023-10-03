@@ -1,4 +1,4 @@
-
+<h1 align="center">Trendy Shop - Amazon Clone</h1>
 
 This is a clone of Amazon.com, which is the one of the world's largest online ecommerce websites.
 
