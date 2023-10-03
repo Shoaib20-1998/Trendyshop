@@ -1,4 +1,4 @@
-![Screenshot (3005)](https://github.com/Shoaib20-1998/Trendyshop/assets/112754545/39511486-132d-411b-8b6e-ba78382f2b3b)<h1>Trendyshop</h1>
+
 
 This is a clone of Amazon.com, which is the one of the world's largest online ecommerce websites.
 
